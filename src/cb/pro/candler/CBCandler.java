@@ -9,7 +9,7 @@ import org.joda.time.*;
 import com.squareup.moshi.*;
 import okhttp3.*;
 import okhttp3.internal.ws.*;
-import utils.*;
+import cb.pro.utils.*;
 
 public class CBCandler {
 	private static final String WS_URL 			=	"wss://ws-feed.pro.coinbase.com";
